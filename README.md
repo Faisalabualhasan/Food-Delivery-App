@@ -1,4 +1,4 @@
-# sellers_app
+# delivery_app
 
 A new Flutter project.
 
